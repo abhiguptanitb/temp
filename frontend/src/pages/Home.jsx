@@ -1,7 +1,6 @@
 // pages/Home.jsx
 import React from "react";
 import './Home.css';
-import Navbar from "../component/Navbar";
 import HeroSection from "../component/HeroSection";
 import SearchBar from "../component/SearchBar";
 import BookCard from "../component/BookCard";
